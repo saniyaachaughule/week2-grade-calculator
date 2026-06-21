@@ -105,7 +105,7 @@ week2-grade-calculator/
 
 ---
 
-## Sample Output
+**## Sample Output
 
 ============================================================
 
@@ -115,13 +115,6 @@ STUDENT GRADE CALCULATOR
 
 RESULTS
 
-============================================================
-
-==================================================
-STUDENT GRADE CALCULATOR
-==================================================
-
-RESULTS
 ============================================================
 Name                 Average    Grade      Comment
 ----------------------------------------------------------------------
@@ -141,7 +134,7 @@ Grade: A
 Comment: Excellent!
 
 Results saved to results.txt
----
+---****
 
 ## What I Learned
 
@@ -194,8 +187,9 @@ Add the following screenshots:
 2. Program Execution Output
    <img width="1919" height="1139" alt="Screenshot 2026-06-21 182315" src="https://github.com/user-attachments/assets/11c32482-9f8c-48ec-8e6f-7cbd44868231" />
 
-3. Search Feature Demonstration
-6. GitHub Repository Structure
+3. GitHub Repository Structure
+   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f4bc09aa-3659-444e-b1bd-b137c27f8d57" />
+
 
 ---
 
