@@ -1,0 +1,19 @@
+Number of Students: 3
+
+Student 1
+Name:Saniya
+Math: 85
+Science: 92
+English: 88
+
+Student 2
+Name: Sarah 
+Math: 78
+Science: 81
+English: 85
+
+Student 3
+Name: Rahul 
+Math: 95
+Science: 90
+English: 98
