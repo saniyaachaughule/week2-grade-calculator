@@ -105,22 +105,20 @@ week2-grade-calculator/
 
 ---
 
-**## Sample Output
+## Sample Output
 
-============================================================
-
+```text
+==================================================
 STUDENT GRADE CALCULATOR
-
-============================================================
+==================================================
 
 RESULTS
-
-============================================================
-Name                 Average    Grade      Comment
-----------------------------------------------------------------------
-Saniya                88.3       B          Very Good!
-Sarah Johnson         81.3       B          Very Good!
-Rahul 	              94.3       A          Excellent!
+==================================================
+Name                 Average    Grade    Comment
+--------------------------------------------------
+Saniya               88.3       B        Very Good!
+Sarah                81.3       B        Very Good!
+Rahul                94.3       A        Excellent!
 
 Class Statistics
 Class Average: 88.0
@@ -128,13 +126,13 @@ Highest Average: 94.3
 Lowest Average: 81.3
 
 Student Found
-Name: Rahul 
+Name: Rahul
 Average: 94.3
 Grade: A
 Comment: Excellent!
 
 Results saved to results.txt
----****
+```
 
 ## What I Learned
 
